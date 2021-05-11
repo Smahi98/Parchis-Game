@@ -1,0 +1,9 @@
+PFA, 1ère année, Filière 2IA
+Jeu Parchis de Tétouan
+Réalisé par Moudni Ahmad, El Hadri Ismael et Smahi Ayoub
+Encadré par Mr. El Afia Abdellatif
+
+Vous trouvrez dans ce dossier le cahier de charge, le rapport, la présentation et les vidéos de démonstration du jeu.
+Le code source "Parchis.c" se trouve dans le dossier "src".
+le fichier "PARCHIS.exe" se trouve dans le dossier "bin".
+les dossiers "bin", "lib" et "include" contiennent les différents fichiers nécessaires pour le fonctionnement du jeu.
